@@ -1,4 +1,6 @@
 # ip_prefix,country_code,region_code,city,postal_code
-2a06:9801:d::/48,GB,GB-MAN,Manchester,M1
-2a0b:4e07:b0::/46,GB,GB-MAN,Manchester,M1
-2a0f:6284:a000::/36,GB,GB-MAN,Manchester,M1
+144.31.150.0/24,GB,GB-LND,London,EC1A
+178.239.112.0/24,FR,FR-IDF,Paris,75000
+2a06:9801:d::/48,GB,GB-LND,London,EC1A
+2a0b:4e07:b0::/46,GB,GB-LND,London,EC1A
+2a0f:6284:a000::/36,GB,GB-LND,London,EC1A
